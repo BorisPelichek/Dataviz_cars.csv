@@ -1,0 +1,8 @@
+# python libraries
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+RISE
