@@ -8,7 +8,7 @@ Link to repository:
 
 Link to notebook:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matheusmota/exp-dataviz2020-2/HEAD?filepath=Exploratory_Data_Analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BorisPelichek/Dataviz_cars.csv/HEAD?filepath=Exploratory_Data_Analysis.ipynb)
 
 
 
