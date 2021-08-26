@@ -6,4 +6,4 @@ matplotlib
 seaborn
 plotly
 RISE
-Collapsible Headings
+collapsible_headings
