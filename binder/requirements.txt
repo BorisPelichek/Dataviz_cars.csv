@@ -1,6 +1,5 @@
 # python libraries
 
-jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.0
 pandas
 numpy
