@@ -6,4 +6,4 @@ matplotlib
 seaborn
 plotly
 RISE
-collapsible_headings
+jupyter_contrib_nbextensions
